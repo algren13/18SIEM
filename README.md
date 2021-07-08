@@ -1,10 +1,7 @@
 Vandalay Industries Monitoring Report
 ## 1. The Need For Speed
 
-Based on the report created, what is the approximate date and time of the attack?  
 **Based on the report the attack took place 2/23/2020 2:30 p.m until 2/23/2020 8:30 p.m. for a total of six hours**
-    - How long did it take your systems to recover?  
-**Six Hours**
 
 ### Eval Command
 ![Eval Command](/Images/1eval.png)
@@ -23,7 +20,6 @@ Based on the report created, what is the approximate date and time of the attack
 
 ## 3.  Drawing The Baseline. 
 
-source="Administrator_logs.csv" name="An account failed to log on"
 **By examining the 'name' field for "An account failed to log on" I was able to determine the time of the attack, the baseline and the threshold.**. 
 
 **The brute force attack occured from 9:00 a.m. until 1:00 p.m. on 2/21/2020 for a total of 4 hours**. 
